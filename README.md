@@ -30,3 +30,6 @@ cp FT-Data-Ranker-7B/deepspeed_train_7b_lora_custom.sh /workspace/lm-trianing/tr
 ```bash
 python run.py --remove_zh_keys Alpaca-CoT/Chinese-medical/chinesemedical.json --remove_en_keys Alpaca-CoT/ConvAI2/persona_train_self_original.json --exp_name remove_zh_medical_en_convai2 --seeds 42 420 4200 20000123 0317 --gpus 0 1 2 3 4 5 6 7
 ```
+
+### Ablation Results
+![](./assets/ablation_res.png)
