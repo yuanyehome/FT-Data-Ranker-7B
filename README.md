@@ -2,6 +2,7 @@
 - 比赛链接：https://tianchi.aliyun.com/competition/entrance/532158
 - 队伍：太棒了（975209）
 - 最终排名：第2名
+- 技术报告：[Report](./FT_Data_Ranker_7B_技术报告.pdf)
 
 ## 方案概述
 1. 搜索数据组成；
